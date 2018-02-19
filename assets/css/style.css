@@ -1,0 +1,21 @@
+#violet{
+	background-color: #D4A8D2;
+}
+.nav-wrapper{
+	text-align: center;
+}
+ #botn{
+	margin-left: 120px;
+
+ }
+
+.img-responsive {
+	width: 100px;
+	height: auto;
+	margin-left: 120px;
+
+}
+
+nav ul a {
+	padding:0 45px;
+}
